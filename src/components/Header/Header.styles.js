@@ -29,5 +29,3 @@ export const TMDBLogoImg = styled.img`
     width: 80px;
   }
 `;
-
-
