@@ -8,7 +8,7 @@ import Thumb from './Thumb';
 import Spinner from './Spinner';
 import SearchBar from './SearchBar';
 
-// Testing Linux
+// Testing Linux Version 2
 
 // Hook
 import { useHomeFetch } from '../hooks/useHomeFetch';
