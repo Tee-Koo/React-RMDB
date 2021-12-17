@@ -7,7 +7,9 @@ import Grid from './Grid';
 import Thumb from './Thumb';
 import Spinner from './Spinner';
 import SearchBar from './SearchBar';
+
 // Testing Linux
+
 // Hook
 import { useHomeFetch } from '../hooks/useHomeFetch';
 // Image
